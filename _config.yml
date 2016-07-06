@@ -1,0 +1,14 @@
+layout_spectrum: 0.424812
+typography_spectrum: 0.5741138
+color:
+  saturation: 0.1704667
+  lightness: 0.5432326
+  brandStrength: 0.09146655
+  brandColors:
+    - '#000000'
+    - '#FAAF40'
+    - '#F9F9F9'
+    - '#434140'
+    - '#48DB61'
+  rhythmicContrast: 0.7738991
+name: 'WitchesWorkshop '
