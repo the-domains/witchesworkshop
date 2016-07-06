@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WitchesWorkshop ]]></title>
+        <description><![CDATA[WitchesWorkshop ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 12:36:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WitchesWorkshop community]]></title>
+            <description><![CDATA[<article><h1>WitchesWorkshop community</h1><p>WitchesWorkshop has been the first point of contact for many Australian witches and pagans since 1999. In a country as large as Australia, providing an accessible and open online community can be a challenge, but our inclusive approach has made WitchesWorkshop one of the most interesting and successful Facebook pagan groups available.  </p></article>]]></description>
+            <link>https://www.dropbox.com/s/vniu5a6whtwmy3x/background-full-moon-1200x716-1200x716-24.jpg?dl=0</link>
+            <guid isPermaLink="false">62b3f3cf-90fc-4f76-8952-455898531acc</guid>
+            <pubDate>Wed, 06 Jul 2016 12:36:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
